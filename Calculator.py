@@ -1,8 +1,8 @@
 from tkinter import*
 
-
+#this app made by https://github.com/ahmad954
 a=Tk() 
-#
+
 
 
 
